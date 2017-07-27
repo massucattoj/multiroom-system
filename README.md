@@ -8,11 +8,8 @@ BUILD A BASIC MULTIROOM AUDIO SYSTEM WITH RASPBERRY + VOLUMIO + SNAPCAST
 Server:
 
 	- Arch Linux (Acredito que sejam as mesmas configuracoes para outras distribuicoes)
-
 	- MPD (audio player)
-
-	- MPC (Or another client to controle mpd, like ncmpcpp)
-	
+	- MPC (Or another client to controle mpd, like ncmpcpp)	
 	- Snapserver
 
 	1) Download audio player and client
@@ -74,6 +71,7 @@ Server:
 
 
 Client:
+
 	- Raspberry B
 	- Volumio
 	- Snapclient
